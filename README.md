@@ -38,3 +38,9 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
 
 # Katkılar
 # Proje geliştirilmesine katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Sağlık sektöründe yapay zeka alanında çalışanlar ve ilgililerin geri bildirimlerini bekliyorum.
+
+
+
+
+![Açıklama metni](path/to/your/image.png)
+
