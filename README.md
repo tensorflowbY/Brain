@@ -42,4 +42,9 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
 
 ![Predict](brain_tumor.PNG)
 
-
+        """
+        0 = glioma
+        1 = meningioma
+        2 = notumor
+        3 = pituitary
+        """
