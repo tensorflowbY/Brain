@@ -40,7 +40,6 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
 # Proje geliştirilmesine katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Sağlık sektöründe yapay zeka alanında çalışanlar ve ilgililerin geri bildirimlerini bekliyorum.
 
 
+![Predict](brain_tumor.PNG)
 
-
-![Predict](path/to/your/brain_tumor.PNG)
 
