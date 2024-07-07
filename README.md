@@ -42,5 +42,5 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
 
 
 
-![Açıklama metni](path/to/your/image.png)
+![Predict](path/to/your/brain_tumor.PNG)
 
