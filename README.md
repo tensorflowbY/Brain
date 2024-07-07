@@ -21,7 +21,7 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
  TensorFlow, Keras gibi kütüphaneler
 
 # Kurulum
- git clone https://github.com/kullanici/Brain.git
+ git clone https://github.com/tensorflowbY/Brain.git
  cd proje-adiniz
  pip install -r requirements.txt
  
