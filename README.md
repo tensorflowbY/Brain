@@ -17,7 +17,7 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
 
 # Gereksinimler
 
- Python 3.x
+ Python 3.11.6
  TensorFlow, Keras gibi kütüphaneler
 
 # Kurulum
