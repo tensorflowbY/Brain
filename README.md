@@ -21,12 +21,13 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
  TensorFlow, Keras gibi kütüphaneler
 
 # Kurulum
+
  git clone https://github.com/tensorflowbY/Brain.git
  cd proje-adiniz
- pip install -r requirements.txt
- 
+ pip install -r requirements.txt 
+  
 # Modeli Eğitmek
-
+  
  Eğitim verilerinizi yükleyin veya mevcut veri setini kullanın.
  Eğitim komutu örneği:
  python train.py --dataset dataset_path --epochs 50
