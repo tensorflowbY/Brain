@@ -50,4 +50,4 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
         3 = pituitary
         """
 
-![Predict](grad-cam.PNG)
+![Predict](grad-cam.png)
