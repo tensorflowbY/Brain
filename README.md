@@ -49,3 +49,5 @@ Bu proje, beyin tümörlerini tespit etmek amacıyla geliştirilmiş bir yapay z
         2 = notumor
         3 = pituitary
         """
+
+![Predict](grad-cam.PNG)
